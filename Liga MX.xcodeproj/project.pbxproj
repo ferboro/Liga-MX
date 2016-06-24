@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C14F5D931D1B71FD00313654 /* barra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C14F5D901D1B71FD00313654 /* barra.jpg */; };
+		C14F5D941D1B71FD00313654 /* equipos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C14F5D911D1B71FD00313654 /* equipos.jpg */; };
+		C14F5D951D1B71FD00313654 /* LigaMX.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C14F5D921D1B71FD00313654 /* LigaMX.jpg */; };
+		C14F5D981D1B7A5C00313654 /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = C14F5D971D1B7A5C00313654 /* Home.m */; };
+		C14F5D9D1D1B804D00313654 /* cellTeams.m in Sources */ = {isa = PBXBuildFile; fileRef = C14F5D9B1D1B804D00313654 /* cellTeams.m */; };
+		C14F5D9E1D1B804D00313654 /* cellTeams.xib in Resources */ = {isa = PBXBuildFile; fileRef = C14F5D9C1D1B804D00313654 /* cellTeams.xib */; };
 		C16FFC691D17333E00E0B096 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C16FFC681D17333E00E0B096 /* main.m */; };
 		C16FFC6C1D17333E00E0B096 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C16FFC6B1D17333E00E0B096 /* AppDelegate.m */; };
 		C16FFC6F1D17333E00E0B096 /* Start.m in Sources */ = {isa = PBXBuildFile; fileRef = C16FFC6E1D17333E00E0B096 /* Start.m */; };
@@ -14,9 +20,37 @@
 		C16FFC751D17333E00E0B096 /* Liga_MX.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C16FFC731D17333E00E0B096 /* Liga_MX.xcdatamodeld */; };
 		C16FFC771D17333E00E0B096 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C16FFC761D17333E00E0B096 /* Assets.xcassets */; };
 		C16FFC7A1D17333E00E0B096 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C16FFC781D17333E00E0B096 /* LaunchScreen.storyboard */; };
+		C16FFC981D174A8300E0B096 /* Intro.m in Sources */ = {isa = PBXBuildFile; fileRef = C16FFC971D174A8300E0B096 /* Intro.m */; };
+		C16FFC9B1D174E9F00E0B096 /* Declarations.m in Sources */ = {isa = PBXBuildFile; fileRef = C16FFC9A1D174E9F00E0B096 /* Declarations.m */; };
+		C17C83C11D1CFDDA00AE3DEF /* atlas.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C01D1CFDDA00AE3DEF /* atlas.png */; };
+		C17C83D01D1CFF4200AE3DEF /* america.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C21D1CFF4200AE3DEF /* america.jpg */; };
+		C17C83D11D1CFF4200AE3DEF /* chivas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C31D1CFF4200AE3DEF /* chivas.jpg */; };
+		C17C83D21D1CFF4200AE3DEF /* cruzazul.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C41D1CFF4200AE3DEF /* cruzazul.png */; };
+		C17C83D31D1CFF4200AE3DEF /* leon.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C51D1CFF4200AE3DEF /* leon.png */; };
+		C17C83D41D1CFF4200AE3DEF /* monterrey.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C61D1CFF4200AE3DEF /* monterrey.png */; };
+		C17C83D51D1CFF4200AE3DEF /* morelia.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C71D1CFF4200AE3DEF /* morelia.png */; };
+		C17C83D61D1CFF4200AE3DEF /* necaxa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C81D1CFF4200AE3DEF /* necaxa.jpg */; };
+		C17C83D71D1CFF4200AE3DEF /* pachuca.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83C91D1CFF4200AE3DEF /* pachuca.png */; };
+		C17C83D81D1CFF4200AE3DEF /* puebla.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83CA1D1CFF4200AE3DEF /* puebla.jpg */; };
+		C17C83D91D1CFF4200AE3DEF /* queretaro.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83CB1D1CFF4200AE3DEF /* queretaro.png */; };
+		C17C83DA1D1CFF4200AE3DEF /* santos.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83CC1D1CFF4200AE3DEF /* santos.png */; };
+		C17C83DB1D1CFF4200AE3DEF /* tigres.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83CD1D1CFF4200AE3DEF /* tigres.jpg */; };
+		C17C83DC1D1CFF4200AE3DEF /* tijuana.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83CE1D1CFF4200AE3DEF /* tijuana.png */; };
+		C17C83DD1D1CFF4200AE3DEF /* toluca.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83CF1D1CFF4200AE3DEF /* toluca.jpg */; };
+		C17C83DF1D1CFF5000AE3DEF /* veracruz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83DE1D1CFF5000AE3DEF /* veracruz.jpg */; };
+		C17C83E11D1CFFAC00AE3DEF /* jaguares.png in Resources */ = {isa = PBXBuildFile; fileRef = C17C83E01D1CFFAC00AE3DEF /* jaguares.png */; };
+		C17C83E31D1D011C00AE3DEF /* pumas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C17C83E21D1D011C00AE3DEF /* pumas.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C14F5D901D1B71FD00313654 /* barra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = barra.jpg; sourceTree = "<group>"; };
+		C14F5D911D1B71FD00313654 /* equipos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = equipos.jpg; sourceTree = "<group>"; };
+		C14F5D921D1B71FD00313654 /* LigaMX.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LigaMX.jpg; sourceTree = "<group>"; };
+		C14F5D961D1B7A5C00313654 /* Home.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
+		C14F5D971D1B7A5C00313654 /* Home.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
+		C14F5D9A1D1B804D00313654 /* cellTeams.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cellTeams.h; sourceTree = "<group>"; };
+		C14F5D9B1D1B804D00313654 /* cellTeams.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cellTeams.m; sourceTree = "<group>"; };
+		C14F5D9C1D1B804D00313654 /* cellTeams.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = cellTeams.xib; sourceTree = "<group>"; };
 		C16FFC641D17333E00E0B096 /* Liga MX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Liga MX.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C16FFC681D17333E00E0B096 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C16FFC6A1D17333E00E0B096 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -28,6 +62,28 @@
 		C16FFC761D17333E00E0B096 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C16FFC791D17333E00E0B096 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C16FFC7B1D17333E00E0B096 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C16FFC961D174A8300E0B096 /* Intro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Intro.h; sourceTree = "<group>"; };
+		C16FFC971D174A8300E0B096 /* Intro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Intro.m; sourceTree = "<group>"; };
+		C16FFC991D174E9F00E0B096 /* Declarations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Declarations.h; sourceTree = "<group>"; };
+		C16FFC9A1D174E9F00E0B096 /* Declarations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Declarations.m; sourceTree = "<group>"; };
+		C17C83C01D1CFDDA00AE3DEF /* atlas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atlas.png; sourceTree = "<group>"; };
+		C17C83C21D1CFF4200AE3DEF /* america.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = america.jpg; sourceTree = "<group>"; };
+		C17C83C31D1CFF4200AE3DEF /* chivas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chivas.jpg; sourceTree = "<group>"; };
+		C17C83C41D1CFF4200AE3DEF /* cruzazul.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cruzazul.png; sourceTree = "<group>"; };
+		C17C83C51D1CFF4200AE3DEF /* leon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leon.png; sourceTree = "<group>"; };
+		C17C83C61D1CFF4200AE3DEF /* monterrey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monterrey.png; sourceTree = "<group>"; };
+		C17C83C71D1CFF4200AE3DEF /* morelia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = morelia.png; sourceTree = "<group>"; };
+		C17C83C81D1CFF4200AE3DEF /* necaxa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = necaxa.jpg; sourceTree = "<group>"; };
+		C17C83C91D1CFF4200AE3DEF /* pachuca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pachuca.png; sourceTree = "<group>"; };
+		C17C83CA1D1CFF4200AE3DEF /* puebla.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puebla.jpg; sourceTree = "<group>"; };
+		C17C83CB1D1CFF4200AE3DEF /* queretaro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = queretaro.png; sourceTree = "<group>"; };
+		C17C83CC1D1CFF4200AE3DEF /* santos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = santos.png; sourceTree = "<group>"; };
+		C17C83CD1D1CFF4200AE3DEF /* tigres.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tigres.jpg; sourceTree = "<group>"; };
+		C17C83CE1D1CFF4200AE3DEF /* tijuana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tijuana.png; sourceTree = "<group>"; };
+		C17C83CF1D1CFF4200AE3DEF /* toluca.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = toluca.jpg; sourceTree = "<group>"; };
+		C17C83DE1D1CFF5000AE3DEF /* veracruz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = veracruz.jpg; sourceTree = "<group>"; };
+		C17C83E01D1CFFAC00AE3DEF /* jaguares.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jaguares.png; sourceTree = "<group>"; };
+		C17C83E21D1D011C00AE3DEF /* pumas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pumas.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +97,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C14F5D8F1D1B71FD00313654 /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				C17C83E21D1D011C00AE3DEF /* pumas.jpg */,
+				C17C83E01D1CFFAC00AE3DEF /* jaguares.png */,
+				C17C83DE1D1CFF5000AE3DEF /* veracruz.jpg */,
+				C17C83C21D1CFF4200AE3DEF /* america.jpg */,
+				C17C83C31D1CFF4200AE3DEF /* chivas.jpg */,
+				C17C83C41D1CFF4200AE3DEF /* cruzazul.png */,
+				C17C83C51D1CFF4200AE3DEF /* leon.png */,
+				C17C83C61D1CFF4200AE3DEF /* monterrey.png */,
+				C17C83C71D1CFF4200AE3DEF /* morelia.png */,
+				C17C83C81D1CFF4200AE3DEF /* necaxa.jpg */,
+				C17C83C91D1CFF4200AE3DEF /* pachuca.png */,
+				C17C83CA1D1CFF4200AE3DEF /* puebla.jpg */,
+				C17C83CB1D1CFF4200AE3DEF /* queretaro.png */,
+				C17C83CC1D1CFF4200AE3DEF /* santos.png */,
+				C17C83CD1D1CFF4200AE3DEF /* tigres.jpg */,
+				C17C83CE1D1CFF4200AE3DEF /* tijuana.png */,
+				C17C83CF1D1CFF4200AE3DEF /* toluca.jpg */,
+				C17C83C01D1CFDDA00AE3DEF /* atlas.png */,
+				C14F5D901D1B71FD00313654 /* barra.jpg */,
+				C14F5D911D1B71FD00313654 /* equipos.jpg */,
+				C14F5D921D1B71FD00313654 /* LigaMX.jpg */,
+			);
+			path = imgs;
+			sourceTree = "<group>";
+		};
+		C14F5D991D1B7ECC00313654 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				C14F5D9A1D1B804D00313654 /* cellTeams.h */,
+				C14F5D9B1D1B804D00313654 /* cellTeams.m */,
+				C14F5D9C1D1B804D00313654 /* cellTeams.xib */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
 		C16FFC5B1D17333E00E0B096 = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +154,8 @@
 		C16FFC661D17333E00E0B096 /* Liga MX */ = {
 			isa = PBXGroup;
 			children = (
+				C14F5D991D1B7ECC00313654 /* Cells */,
+				C14F5D8F1D1B71FD00313654 /* imgs */,
 				C16FFC821D1734B500E0B096 /* Main */,
 				C16FFC811D17349500E0B096 /* Controllers */,
 				C16FFC701D17333E00E0B096 /* Main.storyboard */,
@@ -85,6 +181,10 @@
 			children = (
 				C16FFC6D1D17333E00E0B096 /* Start.h */,
 				C16FFC6E1D17333E00E0B096 /* Start.m */,
+				C16FFC961D174A8300E0B096 /* Intro.h */,
+				C16FFC971D174A8300E0B096 /* Intro.m */,
+				C14F5D961D1B7A5C00313654 /* Home.h */,
+				C14F5D971D1B7A5C00313654 /* Home.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -94,6 +194,8 @@
 			children = (
 				C16FFC6A1D17333E00E0B096 /* AppDelegate.h */,
 				C16FFC6B1D17333E00E0B096 /* AppDelegate.m */,
+				C16FFC991D174E9F00E0B096 /* Declarations.h */,
+				C16FFC9A1D174E9F00E0B096 /* Declarations.m */,
 			);
 			name = Main;
 			sourceTree = "<group>";
@@ -155,9 +257,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C17C83D91D1CFF4200AE3DEF /* queretaro.png in Resources */,
+				C17C83E11D1CFFAC00AE3DEF /* jaguares.png in Resources */,
+				C17C83DD1D1CFF4200AE3DEF /* toluca.jpg in Resources */,
+				C14F5D931D1B71FD00313654 /* barra.jpg in Resources */,
+				C17C83D21D1CFF4200AE3DEF /* cruzazul.png in Resources */,
+				C17C83DB1D1CFF4200AE3DEF /* tigres.jpg in Resources */,
+				C17C83DC1D1CFF4200AE3DEF /* tijuana.png in Resources */,
+				C17C83D01D1CFF4200AE3DEF /* america.jpg in Resources */,
+				C17C83E31D1D011C00AE3DEF /* pumas.jpg in Resources */,
+				C17C83D71D1CFF4200AE3DEF /* pachuca.png in Resources */,
+				C17C83DF1D1CFF5000AE3DEF /* veracruz.jpg in Resources */,
+				C17C83DA1D1CFF4200AE3DEF /* santos.png in Resources */,
+				C17C83C11D1CFDDA00AE3DEF /* atlas.png in Resources */,
+				C14F5D951D1B71FD00313654 /* LigaMX.jpg in Resources */,
+				C17C83D41D1CFF4200AE3DEF /* monterrey.png in Resources */,
+				C17C83D81D1CFF4200AE3DEF /* puebla.jpg in Resources */,
+				C17C83D61D1CFF4200AE3DEF /* necaxa.jpg in Resources */,
+				C17C83D31D1CFF4200AE3DEF /* leon.png in Resources */,
+				C17C83D51D1CFF4200AE3DEF /* morelia.png in Resources */,
 				C16FFC7A1D17333E00E0B096 /* LaunchScreen.storyboard in Resources */,
+				C14F5D941D1B71FD00313654 /* equipos.jpg in Resources */,
 				C16FFC771D17333E00E0B096 /* Assets.xcassets in Resources */,
+				C14F5D9E1D1B804D00313654 /* cellTeams.xib in Resources */,
 				C16FFC721D17333E00E0B096 /* Main.storyboard in Resources */,
+				C17C83D11D1CFF4200AE3DEF /* chivas.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,8 +292,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C14F5D9D1D1B804D00313654 /* cellTeams.m in Sources */,
+				C16FFC981D174A8300E0B096 /* Intro.m in Sources */,
 				C16FFC6F1D17333E00E0B096 /* Start.m in Sources */,
+				C16FFC9B1D174E9F00E0B096 /* Declarations.m in Sources */,
 				C16FFC751D17333E00E0B096 /* Liga_MX.xcdatamodeld in Sources */,
+				C14F5D981D1B7A5C00313654 /* Home.m in Sources */,
 				C16FFC6C1D17333E00E0B096 /* AppDelegate.m in Sources */,
 				C16FFC691D17333E00E0B096 /* main.m in Sources */,
 			);
@@ -320,6 +448,7 @@
 				C16FFC801D17333E00E0B096 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
